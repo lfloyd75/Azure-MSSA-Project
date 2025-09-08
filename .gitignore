@@ -1,0 +1,12 @@
+﻿# VS Code
+.vscode/
+# OS junk
+Thumbs.db
+.DS_Store
+# PowerShell history/temp
+*.ps1xml
+*.psc1
+*.pssc
+*.log
+# Archive clutter
+*.zip
